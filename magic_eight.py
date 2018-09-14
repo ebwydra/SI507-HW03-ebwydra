@@ -1,3 +1,3 @@
 def ask_question():
     question = input("What is your question? ")
-    return question
+    return "It is decidedly so."
